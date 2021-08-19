@@ -8,6 +8,8 @@ Here's an example of how the data looks (each class takes three-rows):
 Here I'm doing multi-classification, this dataset conssit of many images of 10 different Items named as Labels
 Each training and test example is assigned to one of the following labels:
 Label	Description
+
+```
 0	T-shirt/top
 1	Trouser
 2	Pullover
@@ -18,6 +20,7 @@ Label	Description
 7	Sneaker
 8	Bag
 9	Ankle boot
+```
 
 # **Our Result as well as Accuracy?**
 ## **Accuracy: 91%
