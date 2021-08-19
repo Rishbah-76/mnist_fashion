@@ -36,7 +36,7 @@ For This use case we are using the CNN Network consisting the Following
 Finally the Fully Connected Network
 
 # **How to use our code?**
-1. First Download the Data for this Link: [GitHub Pages](git clone git@github.com:zalandoresearch/fashion-mnist.git).
+1. First Download the Data for this [Link](https://github.com/zalandoresearch/fashion-mnist.git) :
    - Clone the Repo and Extract the downloaded file
    - Go to Data
    - Inside data Copy all the 'file.gz' 
