@@ -23,8 +23,8 @@ Label	Description
 ```
 
 # **Our Result as well as Accuracy?**
-## **Accuracy: 91%
-## loss: 0.23133501410484314**
+## **Accuracy: 91%**
+## **loss: 0.23133501410484314**
 ![image](https://user-images.githubusercontent.com/74089340/130069199-e0188adc-e4d4-44cd-b478-3e067a6e2113.png)
 
 
